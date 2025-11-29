@@ -52,7 +52,7 @@ Agile Business Analysis – Udemy
 Business Analysis Foundations: Competenies -PM Institute 		
 MYSQL Silver levelBadges -Hackerrank 						
 Time Management for Managers -Udemy 						
-<img width="549" height="86" alt="image" src="https://github.com/user-attachments/assets/67dc85d1-77b2-4eb6-9aaa-f5b46bf3988f" />
+
 
 
 
