@@ -48,15 +48,12 @@ Class 12 (PCMB, 83.33%) | Class 10 (74.88%)
 
 <h3 align="rigth">📜 Certifications</h3>
 
-Product Management for Maximum Impact – Udemy
+Agile Business Analysis – Udemy 							
+Business Analysis Foundations: Competenies -PM Institute 		
+MYSQL Silver levelBadges -Hackerrank 						
+Time Management for Managers -Udemy 						
+<img width="549" height="86" alt="image" src="https://github.com/user-attachments/assets/67dc85d1-77b2-4eb6-9aaa-f5b46bf3988f" />
 
-Effective Data Analyst Course – Codebasics
-
-Data Analytics with Python – Udemy
-
-MySQL Silver Badge – HackerRank
-
-Figma (UI/UX) – Great Learning
 
 
 
