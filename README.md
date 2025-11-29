@@ -48,13 +48,10 @@ Class 12 (PCMB, 83.33%) | Class 10 (74.88%)
 
 <h3 align="rigth">📜 Certifications</h3>
 
-Agile Business Analysis – Udemy 							
-Business Analysis Foundations: Competenies -PM Institute 		
-MYSQL Silver levelBadges -Hackerrank 						
+Agile Business Analysis – Udemy
+Business Analysis Foundations: Competenies -PM Institute
+MYSQL Silver levelBadges -Hackerrank
 Time Management for Managers -Udemy 						
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
